@@ -545,7 +545,8 @@ int main(int argc, char *argv[])
      <img src="images/ima.png">
    </p>  
        
-   Our Team - [darkaoui hatim](https://github.com/hatimdeve) 
+   Our Team - [darkaoui hatim](https://github.com/hatimdeve) - [khaoula oularbi](https://github.com/Khawla1609)
+ 
 
 Project Link: [https://github.com/hatimdeve/funwithlayout](https://github.com/hatimdeve/funwithlayout)
 
