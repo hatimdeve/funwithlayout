@@ -543,6 +543,10 @@ int main(int argc, char *argv[])
    <p align="center">
      <img src="images/ima.png">
    </p>  
-   
+       
+   Out Team - [farkaoui hatim](https://github.com/hatimdeve) - [AZIZ Oussama](https://github.com/ATAMAN0)
+
+Project Link: [https://github.com/hatimdeve/funwithlayout](https://github.com/hatimdeve/funwithlayout)
+
    <p align="right">(<a href="#top">back to top</a>)</p>
    
