@@ -286,8 +286,9 @@ int main(int argc, char *argv[])
    
    <p align="right">(<a href="#top">back to top</a>)</p>
    
-      <div id="Bug-report-Form">
-  
+      
+<div id="Bug-report-Form">
+    
 <!-- ABOUT THE PROJECT -->
 ## Bug report Form
     
@@ -407,7 +408,7 @@ int main(int argc, char *argv[])
    
  <p align="right">(<a href="#top">back to top</a>)</p>
     
-   <div id="Grid-Layout">
+<div id="Grid-Layout">   
    
 <!-- ABOUT THE PROJECT -->
   
@@ -544,7 +545,7 @@ int main(int argc, char *argv[])
      <img src="images/ima.png">
    </p>  
        
-   Out Team - [farkaoui hatim](https://github.com/hatimdeve) - [AZIZ Oussama](https://github.com/ATAMAN0)
+   Our Team - [darkaoui hatim](https://github.com/hatimdeve) 
 
 Project Link: [https://github.com/hatimdeve/funwithlayout](https://github.com/hatimdeve/funwithlayout)
 
